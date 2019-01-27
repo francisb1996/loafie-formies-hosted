@@ -1,0 +1,13 @@
+{
+"companyName": "Fancy Guppy",
+"productName": "loafie formies",
+"dataUrl": "loafie-build-test.data.unityweb",
+"wasmCodeUrl": "loafie-build-test.wasm.code.unityweb",
+"wasmFrameworkUrl": "loafie-build-test.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
