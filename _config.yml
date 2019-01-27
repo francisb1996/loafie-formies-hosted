@@ -110,7 +110,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "The Lophiiformes Forms Friends"
   location         : "St. Louis"
-  email            :r
+  email            :
 
 # Reading Files
 include:
